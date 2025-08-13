@@ -24,3 +24,7 @@ sudo systemctl restart nginx
 
 Add, commit, and push these files to a repo named `devops-day1-linux-basics`.
 
+
+## What I learned
+- Permissions 600/640/644
+- health.sh basics
